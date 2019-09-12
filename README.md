@@ -1,4 +1,4 @@
-# Astroid-Hypocloid-HTML-Canvas
-Let's draw an Astroid Hypocloid on the HTML Canvas. There is an interesting object on the Analytic Geometry which is a curve made on a specific iteration of straight Segments, you just tell me the number of Segments (Iterations) and I will construct the object.
+# Astroide Hipocloide Canvas HTML 
+Dibujemos un Astroide Hipocloide en el Canvas de HTML. Hay un objeto interesante en la Geometría Analítica que es una curva hecha en una específica iteración de Segmentos de Recta, simplemente dime el numero de Segmentos (Iteraciones) y construir el objeto.
 
-The way I'm going to do it will be setting up a 300px x 300px Canvas. There is a Method for making straight Segments on the Canvas, therefore an inconvinient will come out because that Method is Complex, I solved that problen by making a function whose parameters are specified at the JavaScript code. For the iteration element of the Figure there is a free choise of lines left on you at the HTML. For making another Figure you have to reload the HTML for a cleaner image.     
+La forma en la que lo voy a hacer será construyendo un Canvas de 300px x 300px. Hay un Método para hacer Segmentos de Recta en el Canvas, de este surge un inconveniente puesto que ese Método es Complejo, resolví ese problema haciendo una función cuyos parámetros están especificados en el código Javascript. Para el elemento iterativo de la Figura esteblezco una libre elección de Segmentos para usted en el HTML. Para hacer otra Figura tiene que recargar el HTML para una imagen limpia.
